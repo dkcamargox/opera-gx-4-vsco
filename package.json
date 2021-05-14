@@ -6,7 +6,7 @@
     "engines": {
         "vscode": "^1.56.0"
     },
-    "publisher": "dkcamargox",
+    "publisher": "camargodouglas",
     "icon": "assets/opera_icon.jpg",
     "author": {
         "name": "Douglas Camargo",
