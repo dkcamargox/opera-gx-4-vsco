@@ -2,7 +2,7 @@
     "name": "gx-classic-for-vscode",
     "displayName": "GX_Classic for VSCode",
     "description": "matching opera gx theme for vscode",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.56.0"
     },
