@@ -1,0 +1,21 @@
+{
+    "name": "gx-classic-for-vscode",
+    "displayName": "GX_Classic for VSCode",
+    "description": "matching opera gx theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GX Classic for VSCode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GX Classic for VSCode-color-theme.json"
+            }
+        ]
+    }
+}
