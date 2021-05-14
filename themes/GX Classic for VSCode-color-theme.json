@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#050000",
-		"activityBar.inactiveForeground": "#410000",
+		"activityBar.inactiveForeground": "#ff0000",
 		"activityBarBadge.background": "#ff0000",
 		"dropdown.background": "#050000",
 		"dropdown.border": "#F12727",
