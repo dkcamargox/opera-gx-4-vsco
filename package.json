@@ -6,6 +6,16 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "icon": "assets/opera_icon.jpg",
+    "author": {
+        "name": "Douglas Camargo",
+        "email": "camargo.douglas@icloud.com",
+        "url": "https://www.linkedin.com/in/douglas-kauã-camargo-5a10b71a2/"
+    },
+    "repository": {
+        "url": "https://github.com/dkcamargox/opera-gx-4-vsco",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
